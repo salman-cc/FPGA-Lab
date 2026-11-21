@@ -48,6 +48,6 @@ This repository is about FPGA design only. The lab runs 17 weeks, 4 hours a week
 
 M1 digital building blocks, M2 digital system design, M3 programmable devices, M4 FPGA SoCs, M5 embedded system design using FPGAs.
 
-## Status
+## Reports
 
-This repository only lists what the lab covers. My own source files and reports will be added later.
+My reports for weeks 1 to 8 and 10 are in [reports](./reports/README.md).
